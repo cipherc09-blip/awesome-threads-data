@@ -53,6 +53,7 @@
 - [Dun-sin/Threstagram](https://github.com/Dun-sin/Threstagram) - Tool to convert Threads posts into shareable image cards in the style of Instagram posts.
 - [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper) - Node.js Instagram scraper using public APIs with no login or API keys required for post and hashtag data (798 stars).
 - [meetmangukiya/instagram-scraper](https://github.com/meetmangukiya/instagram-scraper) - Python scraper for the Instagram frontend covering profiles, posts, and hashtag feeds (948 stars).
+- [IGDataHub](https://igdatahub.com/) - Public Instagram profile stats with follower growth charts built from dated readings.
 
 ## Articles & Tutorials
 
